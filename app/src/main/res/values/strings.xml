@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Decouverte Madagascar</string>
+    <string name ="titre">Découverte Madagascar</string>
+    <string name ="sava">Sava</string>
+    <string name ="boeny">Boeny</string>
+    <string name ="sofia">Sofia</string>
+    <string name ="androy">Androy</string>
+    <string name ="antsinanana">Antsinanana</string>
+    <string name ="anosy">Anosy</string>
+    <string name ="andapa">Andapa</string>
+    <string name ="mahajanga">Mahajanga</string>
+    <string name ="ambarijeby">Ambarijeby</string>
+    <string name ="capSaintMarie">Cap Sainte Marie</string>
+    <string name ="andasibe">Andasibe-Mantadia</string>
+    <string name ="fortDauphin">Fort-Dauphin</string>
+    <string name ="fortDauphin_description">Une de la mer de tout les cotés</string>
+    <string name ="andasibe_description">Forêt humide</string>
+    <string name ="capSaintMarie_description">Île de la tranquilité</string>
+    <string name ="ambarijeby_description">Espece emblématique</string>
+    <string name ="mahajanga_description">Un classique de la culture Malgache</string>
+    <string name ="andapa_description">Relief et vegetation hors du commun</string>
+    <string name ="fortDauphin_activite">Randonné</string>
+    <string name ="andasibe_activite">Camping</string>
+    <string name ="capSaintMarie_activite">Meditation</string>
+    <string name ="ambarijeby_activite">Parc naturel</string>
+    <string name ="mahajanga_activite">Plage, restaurant</string>
+    <string name ="andapa_activite">Reboisement,Kayak</string>
+</resources>
