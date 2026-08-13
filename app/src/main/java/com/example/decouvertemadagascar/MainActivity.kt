@@ -1,3 +1,4 @@
+/*BARILALAINA Marc Herimihaja L2 n°9*/
 package com.example.decouvertemadagascar
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
